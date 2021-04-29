@@ -8,6 +8,7 @@ const app = new Vue(
         el: '#vueContainer',
         data: {
             messaggio: "Ciao dall'interno del data",
+            immagine: "img/tiger-2430625_1920.jpg"
         }
     }
-);
+    );
